@@ -1,0 +1,473 @@
+<mxfile host="app.diagrams.net" modified="2023-10-25T10:27:16.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="wfR-qIhPJVt92SCHWw56" version="22.0.7" type="device">
+  <diagram name="Page-1" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
+    <mxGraphModel dx="1909" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1c7a67bf8fd3230f-83" value="Bureau 1" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="449.5" y="250" width="1240" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="1c7a67bf8fd3230f-37" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="774" y="366.54838709677426" as="sourcePoint" />
+            <mxPoint x="1020" y="501.45161290322585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1c7a67bf8fd3230f-38" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" target="sXmMZfzy_CV2LeMFIPpa-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="968.3294117647063" y="392.0000000000001" as="sourcePoint" />
+            <mxPoint x="1023.6705882352944" y="476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1c7a67bf8fd3230f-39" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" target="sXmMZfzy_CV2LeMFIPpa-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1119.2352941176473" y="392.0000000000001" as="sourcePoint" />
+            <mxPoint x="1074.7647058823532" y="476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1c7a67bf8fd3230f-40" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="366" as="sourcePoint" />
+            <mxPoint x="1084" y="502" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1c7a67bf8fd3230f-41" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1084" y="519" as="sourcePoint" />
+            <mxPoint x="1240" y="519.3137254901962" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1170" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-9" value="PC 1 Sion" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="280" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-10" value="PC 2 Sion" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="920" y="300" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-11" value="PC 3 Sion" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="306" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-13" value="Imprimante 1" style="shape=mxgraph.cisco.computers_and_peripherals.printer;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1304" y="306" width="91" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-14" value="Switch Sion 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1019" y="486" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-17" value="Accces Point Sion 1" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1238" y="493.5" width="74" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-19" value="Laptop Sion 1" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1302" y="1359.63" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-21" value="Tablet Sion 1" style="shape=mxgraph.cisco.computers_and_peripherals.tablet;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1392" y="525" width="91" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-24" value="Bureau 2" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="499.5" y="1020" width="1240" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-25" value="PC 1 Sion" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="710" y="1080" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-26" value="PC 2 Sion" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="930" y="1090" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-27" value="PC 3 Sion" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="1100" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-28" value="Imprimante 1" style="shape=mxgraph.cisco.computers_and_peripherals.printer;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="1090" width="91" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-30" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="1172.5483870967741" as="sourcePoint" />
+            <mxPoint x="1006" y="1307.4516129032259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-32" value="Switch Sion 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="999" y="1275" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-33" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="959.9994117647062" y="1180" as="sourcePoint" />
+            <mxPoint x="1039.67" y="1274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-36" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1119.9952941176473" y="1181" as="sourcePoint" />
+            <mxPoint x="1080.76" y="1275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-37" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1356" y="1144" as="sourcePoint" />
+            <mxPoint x="1100" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-38" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="1310" as="sourcePoint" />
+            <mxPoint x="1246" y="1310.3137254901962" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1176" y="1311" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-41" value="Accces Point Sion 1" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1248" y="1282.5" width="74" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-42" value="Laptop Sion 1" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1350" y="1390" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-45" value="Tablet Sion 1" style="shape=mxgraph.cisco.computers_and_peripherals.tablet;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1450" y="1325" width="91" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-46" value="Laptop Sion 1" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="575" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-47" value="Bureau 3" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="458.5" y="1770" width="1240" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-48" value="PC 1 Sion" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="1910" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-49" value="PC 2 Sion" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="890" y="1910" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-50" value="PC 3 Sion" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="1910" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-51" value="Imprimante 1" style="shape=mxgraph.cisco.computers_and_peripherals.printer;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1350" y="1895" width="91" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-52" value="Switch Sion 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1019" y="2100" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-56" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="773" y="1989.9983870967742" as="sourcePoint" />
+            <mxPoint x="1019" y="2124.901612903226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-74" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="969.9994117647062" y="2006" as="sourcePoint" />
+            <mxPoint x="1049.67" y="2100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-76" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1109.2352941176473" y="2000" as="sourcePoint" />
+            <mxPoint x="1070" y="2094" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-77" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="1964" as="sourcePoint" />
+            <mxPoint x="1114" y="2100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-79" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1124" y="2125" as="sourcePoint" />
+            <mxPoint x="1280" y="2125.3137254901962" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1210" y="2126" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-82" value="Accces Point Sion 1" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="2115" width="74" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-84" value="Laptop Sion 1" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="2180.5" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-85" value="Tablet Sion 1" style="shape=mxgraph.cisco.computers_and_peripherals.tablet;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1460" y="2110" width="91" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-86" value="Bureau 4" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="499.5" y="2490" width="1240" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-87" value="PC 1 Sion" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="730" y="2590" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-88" value="PC 2 Sion" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="920" y="2600" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-89" value="PC 3 Sion" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="2590" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-90" value="Imprimante 1" style="shape=mxgraph.cisco.computers_and_peripherals.printer;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1380" y="2600" width="91" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-91" value="Switch Sion 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="2770" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-92" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="789" y="2685.0983870967743" as="sourcePoint" />
+            <mxPoint x="1035" y="2820.001612903226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-93" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="969.9994117647062" y="2690" as="sourcePoint" />
+            <mxPoint x="1049.67" y="2784" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-94" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1159.2352941176473" y="2680" as="sourcePoint" />
+            <mxPoint x="1120" y="2774" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-95" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1397" y="2654" as="sourcePoint" />
+            <mxPoint x="1141" y="2790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-96" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1124" y="2810" as="sourcePoint" />
+            <mxPoint x="1280" y="2810.3137254901962" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1210" y="2811" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-101" value="Accces Point Sion 1" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1276" y="2785" width="74" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-104" value="Laptop Sion 1" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1351" y="2869" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-105" value="Tablet Sion 1" style="shape=mxgraph.cisco.computers_and_peripherals.tablet;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1460" y="2810" width="91" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-106" value="Bureau 5" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="550" y="3190" width="1240" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-107" value="PC 1 Sion" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="3215" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-108" value="PC 2 Sion" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="880" y="3220" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-109" value="PC 3 Sion" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1029" y="3200" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-110" value="Imprimante 1" style="shape=mxgraph.cisco.computers_and_peripherals.printer;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="3200" width="91" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-111" value="Switch Sion 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1019" y="3390" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-112" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="773" y="3299.9983870967744" as="sourcePoint" />
+            <mxPoint x="1019" y="3434.901612903226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-113" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="958.9994117647062" y="3306" as="sourcePoint" />
+            <mxPoint x="1038.67" y="3400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-121" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1089.9952941176473" y="3296" as="sourcePoint" />
+            <mxPoint x="1050.76" y="3390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-122" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="3254" as="sourcePoint" />
+            <mxPoint x="1114" y="3390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-123" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="3414.5" as="sourcePoint" />
+            <mxPoint x="1276" y="3414.8137254901962" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1206" y="3415.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-124" value="Accces Point Sion 1" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1256" y="3405" width="74" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-125" value="Laptop Sion 1" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="3490" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-127" value="Tablet Sion 1" style="shape=mxgraph.cisco.computers_and_peripherals.tablet;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1412" y="3430" width="91" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-128" value="Serveur DHCP Sion" style="shape=mxgraph.cisco.servers.server_with_router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="799" y="3480" width="38" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-129" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;exitX=0;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sXmMZfzy_CV2LeMFIPpa-111" target="sXmMZfzy_CV2LeMFIPpa-128" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="939.9994117647062" y="3476" as="sourcePoint" />
+            <mxPoint x="1019.6700000000001" y="3570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-130" value="Routeur Sion" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="951" y="3551" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-134" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" target="sXmMZfzy_CV2LeMFIPpa-127" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1330.5" y="3416" as="sourcePoint" />
+            <mxPoint x="1380.5" y="3366" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1390" y="3455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-135" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="sXmMZfzy_CV2LeMFIPpa-105" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1358.5" y="2800" as="sourcePoint" />
+            <mxPoint x="1471" y="2894" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-138" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.45;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sXmMZfzy_CV2LeMFIPpa-82" target="sXmMZfzy_CV2LeMFIPpa-85" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1354" y="2130" as="sourcePoint" />
+            <mxPoint x="1450" y="2171.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-142" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" target="sXmMZfzy_CV2LeMFIPpa-42" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1319" y="1300" as="sourcePoint" />
+            <mxPoint x="1415" y="1342" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-144" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" source="sXmMZfzy_CV2LeMFIPpa-41" target="sXmMZfzy_CV2LeMFIPpa-45" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1351" y="1290" as="sourcePoint" />
+            <mxPoint x="1408" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-148" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1302" y="506" as="sourcePoint" />
+            <mxPoint x="1430" y="536" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-150" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" target="sXmMZfzy_CV2LeMFIPpa-46" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1285.5" y="525" as="sourcePoint" />
+            <mxPoint x="1413.5" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-152" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1335" y="2138.5" as="sourcePoint" />
+            <mxPoint x="1431" y="2180.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-153" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" target="sXmMZfzy_CV2LeMFIPpa-104" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1333.5" y="2817.5" as="sourcePoint" />
+            <mxPoint x="1440" y="2852.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXmMZfzy_CV2LeMFIPpa-154" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" target="sXmMZfzy_CV2LeMFIPpa-125" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="3436" as="sourcePoint" />
+            <mxPoint x="1401.5" y="3475" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1379.5" y="3475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzKC2uf_gM8ceWS14Wf3-1" value="Téléphone 1 Sion" style="shape=mxgraph.cisco.modems_and_phones.cell_phone;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="2975" width="34" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="DzKC2uf_gM8ceWS14Wf3-3" value="Téléphone 2 Sion" style="shape=mxgraph.cisco.modems_and_phones.cell_phone;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="3142" width="34" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="evzmtot0uhXLPUtRa5yo-1" value="Salle Serveur" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#f5f5f5;strokeColor=none;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="539.5" y="3870" width="1240" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="evzmtot0uhXLPUtRa5yo-2" value="Switch Sion 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1137" y="4130" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="evzmtot0uhXLPUtRa5yo-3" value="Routeur Sion" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="4100" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="evzmtot0uhXLPUtRa5yo-4" value="Serveur DHCP Sion" style="shape=mxgraph.cisco.servers.server_with_router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="4000" width="38" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="evzmtot0uhXLPUtRa5yo-8" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1063" y="3450" as="sourcePoint" />
+            <mxPoint x="989" y="3561" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evzmtot0uhXLPUtRa5yo-9" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;exitX=0.16;exitY=0.23;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="evzmtot0uhXLPUtRa5yo-2" target="evzmtot0uhXLPUtRa5yo-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="3883" as="sourcePoint" />
+            <mxPoint x="996" y="3994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evzmtot0uhXLPUtRa5yo-10" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;exitX=0.5;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="evzmtot0uhXLPUtRa5yo-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1152.5" y="4280" as="sourcePoint" />
+            <mxPoint x="930.5" y="4125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evzmtot0uhXLPUtRa5yo-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="evzmtot0uhXLPUtRa5yo-2" target="sXmMZfzy_CV2LeMFIPpa-111">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="4050" as="sourcePoint" />
+            <mxPoint x="1230" y="4000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evzmtot0uhXLPUtRa5yo-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="evzmtot0uhXLPUtRa5yo-2" target="sXmMZfzy_CV2LeMFIPpa-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="3940" as="sourcePoint" />
+            <mxPoint x="970" y="3890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1660" y="3320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evzmtot0uhXLPUtRa5yo-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="evzmtot0uhXLPUtRa5yo-2" target="sXmMZfzy_CV2LeMFIPpa-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="3840" as="sourcePoint" />
+            <mxPoint x="920" y="3790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="3670" />
+              <mxPoint x="320" y="3050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evzmtot0uhXLPUtRa5yo-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="evzmtot0uhXLPUtRa5yo-2" target="sXmMZfzy_CV2LeMFIPpa-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="4000" as="sourcePoint" />
+            <mxPoint x="910" y="3950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="3430" />
+              <mxPoint x="160" y="2570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evzmtot0uhXLPUtRa5yo-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="evzmtot0uhXLPUtRa5yo-2" target="sXmMZfzy_CV2LeMFIPpa-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="4110" as="sourcePoint" />
+            <mxPoint x="890" y="4060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1840" y="3290" />
+              <mxPoint x="1990" y="2350" />
+              <mxPoint x="1820" y="1250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
